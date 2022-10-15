@@ -1,0 +1,43 @@
+.parent
+{
+    height:50px;
+    width: 90%;
+    background-color: #24252A;
+    display: block;
+    margin-left: 3%;
+}
+.child
+{
+    height: 100%;
+    width: 30%;
+    background-color:#24252A; 
+    float: left;
+    margin-left: 2%; 
+    text-align: center;
+}
+.one
+{
+  color: white;
+  margin-top:4%;
+  margin-left:20%;
+}
+.two
+{
+    color: #A5A6AA;
+    float: left;
+    margin-left: 5%;
+    margin-top:15px;
+
+}
+.three
+{
+    background-color:#048AA8;
+   
+    text-align: center;
+  margin-top: 1%;
+    margin-left: 55%;
+    width: 30%;
+  padding:3%;
+  border-radius:30%;
+   
+}
